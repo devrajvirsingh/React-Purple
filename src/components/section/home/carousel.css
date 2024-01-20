@@ -1,0 +1,18 @@
+.carousel-container{
+    width: 80%;
+}
+.carousel-container2{
+    width: 100%;
+}
+.categories-image{
+    width: 33%;
+}
+.store{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.store-img{
+    width: 50%;
+    padding: 5px;
+}
